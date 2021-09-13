@@ -8,3 +8,5 @@ function displayIfChildIsAbleToRideTheRollerCoaster(num){
         }
 }
 displayIfChildIsAbleToRideTheRollerCoaster(childHeight);
+
+//Here I am adding an extra comment to test some things!
